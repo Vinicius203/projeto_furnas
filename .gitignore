@@ -1,0 +1,29 @@
+# JUPYTER NOTEBOOKS
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# PYTHON & AMBIENTES VIRTUAIS
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv/
+
+# Extensões
+*.csv
+*.json
+*.geojson
+*.shp
+*.shx
+*.dbf
+*.prj
+*.tif
+*.tiff
+
+# Dados
+data/raw/*
+data/processed/*
+
+!data/**/*.gitkeep
