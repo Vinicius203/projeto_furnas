@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Google Earth Engine](https://img.shields.io/badge/GEE-Earth_Engine-success)
-![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20518318-blue)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20518318-blue)](https://doi.org/10.5281/zenodo.20518318)
 
 Este repositório contém o código-fonte e o pipeline de dados desenvolvidos para o Trabalho de Diplomação (TCC) em Ciência da Computação pela **PUC Minas - Campus Poços de Caldas**.
 
